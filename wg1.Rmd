@@ -28,7 +28,7 @@ output: ioslides_presentation
 
 - Slides direct beschikbaar online
 - Makkelijk format voor printen of bekijken op mobiel
-- Zie [bit.ly/mto-d](bit.ly/mto-d)
+- Zie [http://bitly.com/2016mto-d](http://bitly.com/2016mto-d)
 - Constructief gebruik laptops, telefoons = aangemoedigd
 - Zoek informatie op, veel vragen online beantwoord
 - Leidt tot nieuwe, diepere vragen die begrip kunnen verbeteren
