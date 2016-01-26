@@ -1,0 +1,59 @@
+---
+title: "Werkgroep 1 MTO-D-MAW"
+author: "Chris HJ Hartgerink"
+date: "January 26-29, 2016"
+output: ioslides_presentation
+---
+
+## Opzet werkgroepen
+
+- 7 stuks
+- Geen verplichting
+- Doel: beheersing, geen eerste kennismaking
+- Hou stof bij, anders weinig nut
+- Vragen maken
+- **Vragen *stellen***!
+
+## Wie ben ik?
+
+- Chris Hartgerink
+- 2ejaars promovendus
+- Onderzoek naar detecteren van wetenschappelijke datafraude
+- Voorheen PSY bachelor, STAT master
+- [c.h.j.hartgerink@uvt.nl](mailto:c.h.j.hartgerink@uvt.nl)
+- P1.174B
+
+## Vragenformulering
+
+- **Constructmethode** = theoretisch verantwoorde construct structuur
+- **Facetmethode** = wat kan varieren binnen construct, genereer vragen voor verschillende combinaties
+- **Rationele methode** = experts generen relevante aspecten construct
+- **Interne methode** = vissen in een vragenpool voor maximale interne betrouwbaarheid
+- **Prototypische methode** = wat wordt het meest typisch geacht voor het construct
+- **Externe methode** = vragen die aan real-life voorbeeld van construct relateren
+
+## Formuleringsregels *vragen*
+
+1. Simpele, heldere vraag
+2. Korte vraag
+3. Enkelvoudige vraag
+4. Precieze vragen
+5. Vraag is relevant voor respondent
+6. Vermijd ontkennende woorden (niet, niemand, etc.)
+7. Gebruik zowel indicatieve als contra-indicatieve vragen (gelijke mate)
+8. Eenduidige woorden
+9. Splits contextschets van feitelijke vraag
+10. Neutraal geformuleerde vragen
+
+## Formuleringsregels *antwoorden*
+1. Exhaustive
+2. Mutually exclusive
+3. Vermijd open vragen
+4. Logische volgorde (negatief typisch eerst)
+5. Vermijd 'weet niet' etc
+6. 1 antwoordmogelijkheid
+7. Vergelijkbare response alternatieven over vragen
+8. Symmetrische schaal met bipolaire eigenschap
+
+## 
+
