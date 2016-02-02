@@ -1,0 +1,121 @@
+---
+title: "Werkgroep 1 MTO-D"
+author: "Chris HJ Hartgerink"
+date: "January 26-29, 2016"
+output: ioslides_presentation
+---
+
+## Opzet werkgroepen
+
+- 7 stuks
+- Geen verplichting
+- Doel: beheersing, geen eerste kennismaking
+- Hou stof bij, anders weinig nut
+- Vragen maken
+- **Vragen *stellen***!
+
+## Opzet werkgroepen (cont.)
+
+- Interactieve opzet
+- Jullie vragen, ik pas colleges erop aan
+- Bv. meer aandacht aan formules? Prima!
+- Bv. meer aandacht aan concept en intuitieve idee hiervan? Prima!
+- Bv. minder gelul, meer doen? Prima!
+- Opgaven algemene gids; kunnen extra aandacht besteden waar jullie nodig achten
+- Vereist wel communicatie vanuit *jullie*
+
+## Opzet werkgroepen (cont.)
+
+- Slides direct beschikbaar online
+- Makkelijk format voor printen of bekijken op mobiel
+- Zie [http://bitly.com/2016mto-d](http://bitly.com/2016mto-d)
+- Constructief gebruik laptops, telefoons = aangemoedigd
+- Zoek informatie op, veel vragen online beantwoord
+- Leidt tot nieuwe, diepere vragen die begrip kunnen verbeteren
+
+## Wie ben ik?
+
+- Chris Hartgerink
+- Persoon met hobbies: lezen, privacy kwesties, schrijven
+- 2ejaars promovendus bij MTO
+- Onderzoek naar detecteren van wetenschappelijke datafraude
+- Voorheen PSY bachelor, STAT master
+- Email: [c.h.j.hartgerink@uvt.nl](mailto:c.h.j.hartgerink@uvt.nl)
+- Kamer: P1.174B [boven copyshop]
+
+## Wie zijn jullie?
+
+- Hoe heten jullie met de voornaam?
+- Persoonlijk leerdoel voor de cursus? (bv. begrijpen hoe een statistisch goede schaal toch slecht kan zijn)
+- Stuur mij een email met bovenstaande + foto --> probeer ik namen en gezichten te leren + rekening met doelen te houden waar mogelijk.
+- Ik verwijder de foto's ook weer, uiteraard.
+
+## Vragenformulering
+
+- **Constructmethode** = theoretisch verantwoorde construct structuur
+- **Facetmethode** = wat kan varieren binnen construct, genereer vragen voor verschillende combinaties
+- **Rationele methode** = experts generen relevante aspecten construct
+- **Interne methode** = vissen in een vragenpool voor maximale interne betrouwbaarheid
+- **Prototypische methode** = wat wordt het meest typisch geacht voor het construct
+- **Externe methode** = vragen die aan real-life voorbeeld van construct relateren
+
+## Formuleringsregels *vragen*
+
+1. Simpele, heldere vraag
+2. Korte vraag
+3. Enkelvoudige vraag
+4. Precieze vragen
+5. Vraag is relevant voor respondent
+6. Vermijd ontkennende woorden (niet, niemand, etc.)
+7. Gebruik zowel indicatieve als contra-indicatieve vragen (gelijke mate)
+8. Eenduidige woorden
+9. Splits contextschets van feitelijke vraag
+10. Neutraal geformuleerde vragen
+
+## Formuleringsregels *antwoorden*
+1. Volledig (laat geen opties weg)
+2. Omvattend (alle mogelijkheden gedekt, bv. "anders" categorie)
+3. Vermijd open vragen
+4. Logische volgorde (negatief typisch eerst)
+5. Vermijd 'weet niet' etc
+6. 1 antwoordmogelijkheid
+7. Vergelijkbare response alternatieven over vragen
+8. Symmetrische schaal met bipolaire eigenschap
+
+## Vandaag
+
+- Formuleren vragen
+- Inspecteren andermans formuleringen
+- Doel: begrijpen moeilijkheid in formuleren vragen en diversiteit in hoe een enkel concept kan worden geoperationaliseerd
+
+## Formuleren vragen
+
+- Concept: Facebookverslaving
+
+### Zelfstandig (10 minuten)
+- Formuleer dimensie(s) en eventuele subdimensies
+- Wat zijn indicatoren van de verschillende (sub)dimensies?
+
+### Samen (groepjes van vier)
+- Tiental vragen formuleren a.d.h.v. de formuleringsregels
+- Vergeet niet over antwoordcategorieen na te denken!
+- Kopieer vragen op los papier (na pauze gaan we hiermee verder)
+
+## Inspecteren vragen
+
+- Allemaal vragen gemaakt en nagedacht over zelfde onderwerp.
+- Kwaliteit vragen andere groep beoordelen
+- Moeilijkheid formuleren eenduidige schaal (varieert al snel)
+
+### Bijvoorbeeld
+- Zijn er indicatoren die jullie hebben gemist in eigen vragen?
+- Als er indicatoren gemist zijn, behoren die tot een dimensie die eventueel gemist is?
+- Hoe is de vragenlijst anders van eigen vragenlijst?
+
+## Volgende week
+
+- Lineaire combinaties
+- Formules gebruiken
+- Onderliggende structuur van alle statistiek die volgt
+- Bereid voor en mail als de formules je teveel worden!
+- Reminder: ik kan les aanpassen aan wensen groep wanneer onduidelijkheden aangekaart worden.
