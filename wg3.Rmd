@@ -1,0 +1,13 @@
+---
+title: "Werkgroep 3 MTO-D"
+author: "Chris HJ Hartgerink"
+date: "February 9-12, 2016"
+output: ioslides_presentation
+---
+
+## Huishoudelijk
+
+1. Vandaag: Opgaven 1, 2, 6, 10
+2. Slides beschikbaar op [bitly.com/2016mto-d](bitly.com/2016mto-d)
+3. Antwoorden van de opgaven worden beschikbaar aan einde vd week
+4. Voor restriction of range kun je demo bekijken: [link](http://onlinestatbook.com/2/describing_bivariate_data/restriction_demo.html).
